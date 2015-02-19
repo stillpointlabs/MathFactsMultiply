@@ -1,0 +1,14 @@
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\bin\Release\MathFacts.exe
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\bin\Release\MathFacts.pdb
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Release\MathFacts.SessionMultiply.resources
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Release\MathFacts.SessionConfigMult.resources
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Release\MathFacts.Properties.Resources.resources
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Release\MathFacts.csproj.GenerateResource.Cache
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Release\MathFacts.exe
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Release\MathFacts.pdb
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Release\MathFacts.csprojResolveAssemblyReference.cache
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\MathFacts\MathFacts\bin\Release\MathFacts.exe.manifest
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\MathFacts\MathFacts\bin\Release\MathFacts.application
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\MathFacts\MathFacts\obj\x86\Release\MathFacts.exe.manifest
+C:\Users\Kevin\Documents\Visual Studio 2010\Projects\MathFacts\MathFacts\obj\x86\Release\MathFacts.application
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Release\MathFacts.MultiplySplashScreen.resources

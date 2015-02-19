@@ -1,0 +1,40 @@
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\bin\Debug\MathFacts.exe.manifest
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\bin\Debug\MathFacts.application
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\bin\Debug\MathFacts.exe
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\bin\Debug\MathFacts.pdb
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Debug\MathFacts.SessionMultiply.resources
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Debug\MathFacts.MultiplySplashScreen.resources
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Debug\MathFacts.SessionConfigMult.resources
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Debug\MathFacts.Properties.Resources.resources
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Debug\MathFactsMultiply.csproj.GenerateResource.Cache
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Debug\MathFacts.exe.manifest
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Debug\MathFacts.application
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Debug\MathFacts.exe
+C:\Users\Kevin\documents\visual studio 2010\Projects\MathFacts\MathFacts\obj\x86\Debug\MathFacts.pdb
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\bin\Debug\MathFacts.exe.manifest
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\bin\Debug\MathFacts.application
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\bin\Debug\MathFacts.exe
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\bin\Debug\MathFacts.pdb
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\obj\x86\Debug\MathFacts.SessionMultiply.resources
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\obj\x86\Debug\MathFacts.MultiplySplashScreen.resources
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\obj\x86\Debug\MathFacts.SessionConfigMult.resources
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\obj\x86\Debug\MathFacts.Properties.Resources.resources
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\obj\x86\Debug\MathFactsMultiply.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\obj\x86\Debug\MathFacts.exe.manifest
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\obj\x86\Debug\MathFacts.application
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\obj\x86\Debug\MathFacts.exe
+C:\Users\Kevin\Documents\GitHub\MathFacts\MathFacts\obj\x86\Debug\MathFacts.pdb
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\obj\x86\Debug\MathFacts.exe
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\obj\x86\Debug\MathFacts.pdb
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\bin\Debug\MathFacts.exe.manifest
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\bin\Debug\MathFacts.application
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\bin\Debug\MathFacts.exe
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\bin\Debug\MathFacts.pdb
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\obj\x86\Debug\MathFacts.SessionMultiply.resources
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\obj\x86\Debug\MathFacts.MultiplySplashScreen.resources
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\obj\x86\Debug\MathFacts.SessionConfigMult.resources
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\obj\x86\Debug\MathFacts.Properties.Resources.resources
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\obj\x86\Debug\MathFactsMultiply.csproj.GenerateResource.Cache
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\obj\x86\Debug\MathFacts.exe.manifest
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\obj\x86\Debug\MathFacts.application
+C:\Users\Kevin\Documents\GitHub\MathFactsMultiply\MathFacts\obj\x86\Debug\MathFactsMultiply.csprojResolveAssemblyReference.cache
